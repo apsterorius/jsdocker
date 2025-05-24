@@ -3,3 +3,5 @@ setInterval(() => {
     const message = `Numero aleatorio: ${randomNumber}`;
     console.log(message);
 }, 1000);
+
+//ggg
